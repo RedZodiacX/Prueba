@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/12/07 09:27:17.000.126,=C:\Users\RIO-PC\Documents\Webservice\FormUnit1.pas</Transaction>
+    <Transaction>2021/12/07 09:27:17.000.312,=C:\Users\RIO-PC\Documents\Webservice\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2021/12/07 09:27:19.000.983,=C:\Users\RIO-PC\Documents\Webservice\js\serverfunctionexecutor.js</Transaction>
+    <Transaction>2021/12/07 09:27:19.000.860,=C:\Users\RIO-PC\Documents\Webservice\WebModuleUnit1.pas</Transaction>
+    <Transaction>2021/12/07 09:27:19.000.998,=C:\Users\RIO-PC\Documents\Webservice\js\json2.js</Transaction>
+    <Transaction>2021/12/07 09:27:19.000.968,=C:\Users\RIO-PC\Documents\Webservice\js\base64.js</Transaction>
+    <Transaction>2021/12/07 09:27:20.000.015,=C:\Users\RIO-PC\Documents\Webservice\js\callbackframework.js</Transaction>
+    <Transaction>2021/12/07 09:27:20.000.045,=C:\Users\RIO-PC\Documents\Webservice\js\base64-min.js</Transaction>
+    <Transaction>2021/12/07 09:27:20.000.109,=C:\Users\RIO-PC\Documents\Webservice\js\callbackframework-min.js</Transaction>
+    <Transaction>2021/12/07 09:27:20.000.030,=C:\Users\RIO-PC\Documents\Webservice\js\serverfunctions.js</Transaction>
+    <Transaction>2021/12/07 09:27:20.000.078,=C:\Users\RIO-PC\Documents\Webservice\js\serverfunctionexecutor-min.js</Transaction>
+    <Transaction>2021/12/07 09:27:20.000.060,=C:\Users\RIO-PC\Documents\Webservice\js\json2-min.js</Transaction>
+  </Transactions>
+</BorlandProject>
