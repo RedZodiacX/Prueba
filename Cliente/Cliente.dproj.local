@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/04/22 12:19:20.000.125,=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/07/06 03:40:21.000.473,=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/01 20:00:24.000.879,=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/01 20:00:25.000.208,=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>2022/05/01 20:00:25.000.066,=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>2022/05/01 20:16:04.000.672,=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/01 22:03:59.000.721,=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/01 22:30:57.000.495,=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/05/01 22:59:00.000.486,C:\Users\RIO-PC\Documents\Cliente\Principal.pas=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/01 22:59:00.000.486,C:\Users\RIO-PC\Documents\Cliente\Principal.dfm=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/05/01 22:59:07.000.734,C:\Users\RIO-PC\Documents\Cliente\Unit2.pas=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2022/05/01 22:59:07.000.734,C:\Users\RIO-PC\Documents\Cliente\Unit2.dfm=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2022/05/01 22:59:09.000.360,C:\Users\RIO-PC\Documents\Cliente\Unit3.pas=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022/05/01 22:59:09.000.360,C:\Users\RIO-PC\Documents\Cliente\Unit3.dfm=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2022/05/01 22:59:16.000.623,C:\Users\RIO-PC\Documents\Cliente\Cliente.dproj=C:\Users\RIO-PC\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/05/02 01:09:34.000.606,=C:\Users\RIO-PC\Documents\Cliente\Unit1.pas</Transaction>
+    <Transaction>2022/05/02 01:29:01.000.724,=C:\Users\RIO-PC\Documents\Cliente\Unit4.pas</Transaction>
+    <Transaction>2022/05/02 02:04:21.000.274,=C:\Users\RIO-PC\Documents\Cliente\Unit5.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
